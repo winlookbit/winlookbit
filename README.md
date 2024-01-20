@@ -1,5 +1,5 @@
 ## Announcement
-公告板网址：[liuyedao.top](liuyedao.top) | [liuyedaolink.top](liuyedaolink.top) | Github备用 | 公告板地址永久不变且国内可访问，务必收藏！****
+大厂VPS-公告板网址：[liuyedao.top](liuyedao.top) | [liuyedaolink.top](liuyedaolink.top) | Github备用 | 公告板地址永久不变且国内可访问，务必收藏！****
 <!---
 winlookbit/winlookbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
